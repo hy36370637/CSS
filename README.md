@@ -1,1 +1,2 @@
-# CSS
+# README
+for Safari
